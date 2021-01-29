@@ -53,7 +53,7 @@ cd time_zone_converter/frontend
 npm install
 ```
 
-## Compiles and hot-reloads for development
+## compiles and hot-reloads for development
 ```
 npm run serve
 ```
