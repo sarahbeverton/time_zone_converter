@@ -4,9 +4,9 @@ Select a time zone to view current time in that time zone.
 Tech Stack: Flask, Vue, BootstrapVue
 
 ### Prerequisites
-python3.9
-pipenv
-npm
+python3.9\
+pipenv\
+npm\
 
 # Project setup
 
