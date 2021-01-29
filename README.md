@@ -7,14 +7,14 @@ Tech Stack: Flask, Vue, BootstrapVue
 
 ## clone the project
 ```
-git clone https://github.com/sarahbeverton/tz_converter.git
+git clone https://github.com/sarahbeverton/time_zone_converter.git
 ```
 
 # api
 
 ## enter the project directory
 ```
-cd tz_converter/api
+cd time_zone_converter/api
 ```
 
 ## install dependencies
@@ -40,7 +40,7 @@ The api will run on http://localhost:5000
 ## enter the project directory
 Open a new terminal window and go to frontend directory
 ```
-cd tz_converter/frontend
+cd time_zone_converter/frontend
 ```
 
 ## install dependencies
