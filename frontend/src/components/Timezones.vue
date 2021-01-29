@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1>Time Zone Converter</h1>
-    <h3>Local Time: {{ new Date().toLocaleString() }}</h3>
+    <h3>Current UTC Time: {{ new Date().toUTCString() }}</h3>
     <select v-model="new_timezone" v-on:change="onChange">
       <option disabled value="">Select Time Zone</option>
       <option value="Africa/Abidjan">Africa/Abidjan</option>
