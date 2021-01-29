@@ -6,7 +6,7 @@ Tech Stack: Flask, Vue, BootstrapVue
 ### Prerequisites
 python3.9\
 pipenv\
-npm\
+npm
 
 # Project setup
 
